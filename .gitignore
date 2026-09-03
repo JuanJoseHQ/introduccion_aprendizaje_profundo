@@ -1,0 +1,20 @@
+# Datasets (no se versionan: se descargan aparte)
+*.csv
+*.zip
+!primera_entrega/data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos / editores
+.env
+.vscode/
+.idea/
+.DS_Store
